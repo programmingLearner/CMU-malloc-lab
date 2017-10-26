@@ -1,7 +1,7 @@
 /******************************************************************************************************
- * 1500017799 ZhaoTianyang                                                                            *
+ * ZhaoTianyang                                                                            *
  * Malloc-lab                                                                                         *
- * Version 1.0                                                                                        *
+ * Version 4.0                                                                                        *
  *                                                                                                    *
  * Basic Information:                                                                                 *
  * 1. Inplementation with binary search tree (explicit list)                                          *
